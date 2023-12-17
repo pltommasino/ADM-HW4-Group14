@@ -7,7 +7,7 @@ This project was carried out by Group 14 of Algorithmic Methods for Data Mining,
 | NAME and SURNAME | EMAIL |
 | --- | --- |
 | Pasquale Luca Tommasino | tommasino.1912107@studenti.uniroma1.it | 
-| Alessio Lini | lani.1857003@studenti.uniroma1.it |
+| Alessio Lani | lani.1857003@studenti.uniroma1.it |
 | Àngel Mola | molaaudi.2116134@studenti.uniroma1.it |
 
 
@@ -28,3 +28,4 @@ This part tries to take those movies highlighted by the users (the top 10 best f
 
 
 ### 5. Algorithmic Question
+In this part we have to find an algorithm that find the best way to chose the exams to obtain the best possible final grade following the rules of the univerisity. I found out that to maximaze the final grade the student has to chose an exam with a small mark and then an exam with a big mark and so on and is important that the last exam is one with a big mark. At the beginning the complexity was O(N^2) after I improved it and I arrived at a complexity of O(NlogN) in the also using chatgpt the complexity didn't improved but in the average case we arrived at a complexity of O(N).
