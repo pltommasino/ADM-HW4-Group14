@@ -8,7 +8,7 @@ This project was carried out by Group 14 of Algorithmic Methods for Data Mining,
 | --- | --- |
 | Pasquale Luca Tommasino | tommasino.1912107@studenti.uniroma1.it | 
 | Alessio Lini | lani.1857003@studenti.uniroma1.it |
-| Àngel Mola |  |
+| Àngel Mola | molaaudi.2116134@studenti.uniroma1.it |
 
 
 ### Description of the project
