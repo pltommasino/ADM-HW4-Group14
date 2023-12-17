@@ -25,11 +25,7 @@ We normalized the data so that the following analysis won't be affected by the u
 
 
 ### 4. Command Line Question
-In this part we with command line questions we have answered:
-
-What is the most-watched Netflix title?
-Report the average time between subsequent clicks on Netflix.com
-Provide the ID of the user that has spent the most time on Netflix
+In this part we with command line questions we have answered which is the most-watched film, which is the average time between subsequent clicks on Netflix.com and the ID of the user that spent most time in Netflix.
 
 ### 5. Algorithmic Question
 In this part we have to find an algorithm that find the best way to chose the exams to obtain the best possible final grade following the rules of the univerisity. I found out that to maximaze the final grade the student has to chose an exam with a small mark and then an exam with a big mark and so on and is important that the last exam is one with a big mark so we have adjusted the list of marks of the exams in a proper way and then we uptaded this list following the rule given by the univeristy. At the beginning the complexity was O(N^2) after I improved it and I arrived at a complexity of O(NlogN) in the also using chatgpt the complexity didn't improved but in the average case we arrived at a complexity of O(N).
